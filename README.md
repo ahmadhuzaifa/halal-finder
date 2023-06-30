@@ -13,3 +13,6 @@ Halal Advocates is a mobile application built with Swift and Firebase that helps
 - User Reviews and Ratings: Users can leave reviews and ratings for the restaurants they have visited, helping others make informed decisions.
 
 - Favorites: Users can save their favorite restaurants for quick access and receive updates on special offers or promotions.
+
+
+You can checkout the demo at: https://drive.google.com/file/d/19VupbFx9-Q8lXDu_EIeuYIaAjMTg14k9/view
