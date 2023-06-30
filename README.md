@@ -1,5 +1,5 @@
-# Halal Food Finder
-The Halal Food Finder is a mobile application built with Swift and Firebase that helps users locate halal food options in their vicinity.
+# Halal Advocates
+Halal Advocates is a mobile application built with Swift and Firebase that helps users locate halal food options in their vicinity.
 
 ## Features
 - Search: Users can search for halal restaurants, cafes, and food establishments based on their location or a specified address.
